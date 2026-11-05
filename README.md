@@ -1,4 +1,4 @@
-# 3.3V Buck-Boost PCB Converter 
+# 3.3V Buck-Boost PCB Converter -ALtium Designer
 
 ## 📌 Overview
 
